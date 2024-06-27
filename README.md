@@ -1,6 +1,6 @@
 # AluGames
 
-AluGames é um projeto de exemplo que simula um sistema de aluguel de jogos de tabuleiro. O projeto é desenvolvido utilizando HTML, CSS e JavaScript.
+AluGames é um projeto de exemplo que simula um sistema de aluguel de jogos de tabuleiro. O projeto foi desenvolvido durante o curso Lógica de programação: praticando com desafios da plataforma Alura.
 
 ## Funcionalidades
 
